@@ -1,0 +1,1 @@
+server:  port: 9900  servlet:    context-path: /winispring:  rabbitmq:    host: 192.168.1.128    username: kje    password: 1q2w3e    port: 5672    virtual-host: vhost1
